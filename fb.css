@@ -1,0 +1,169 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.header{
+    background:#3e63a8;
+    width: 100%;
+    height: 85px;
+    position: relative;
+    float: left;
+}
+.logo{
+    padding-top: 20px;
+    width: 50%;
+}
+.logo1{
+    color: white;
+    text-decoration: none;
+    font-size: 45px;
+    font-weight: bolder;
+    margin-left: 130px;
+    float: left;   
+}
+.login{
+    float: right;
+    margin-right: 160px;
+    color: white;
+}
+.login-controls td {
+    padding: 0 6px;
+    font-size: 12px;
+    vertical-align: middle;
+}
+
+
+.login-controls input[type="submit"] {
+    background: #4267b2;
+    border: 1px solid #29487d;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.forgetten {
+    color: #dfe3ee;
+    text-decoration: none;
+    font-size: 12px;
+}
+.login-controls input[type="submit"]:hover{
+    color: aliceblue;}
+.body{
+        float: left;
+        width: 100%;
+        height: 860px;
+        
+        background: #f4f6f9;
+    }
+.left{
+    width: 50%;
+    float: left;
+    
+    padding-top: 55px;
+}
+
+.about{
+    color: #29487d;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 134px;
+
+
+}    
+.img{
+    width: 650px;
+    margin-left: 134px;
+}
+.right{
+    width: 34%;
+    float: left;
+    padding-left: 20px;
+    
+}
+.signup{
+    border-spacing: 1px;
+}
+.righth1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    margin-block-end: 0;
+    font-weight: 400;
+}
+.rightp{
+    margin-block-start: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-size: 20px;
+    
+}
+.name{
+    font-size: 21px;
+    padding: 6px;
+    font-family: dark ;
+    margin-bottom: 8px;
+}
+.emandpw{
+    font-size: 21px;
+    padding: 6px;
+    width: 100%;
+    font-family: dark;
+    margin-bottom: 8px;
+}
+#name1{
+    margin-right: 10px;
+}
+#name2{
+    
+    width: 100%;
+}
+.bday{
+    font-weight: 500;
+    margin-block-end: 9px;
+    font-size: 25px;
+    color:black ;
+}
+.date{
+    
+    padding: 10px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 19px;
+}
+.gender{
+    font-size: 25px;
+    padding-right: 26px;
+    
+    
+}
+
+.down{
+    margin-top: 20px;
+}
+.signupnote{
+    margin-top: 30px;
+    font-size: 19px;
+    font-family: dark;
+    margin-left: 6px;
+}
+.signupbtn{
+background: linear-gradient(to bottom, #84C265 0%, #6CA84C 50%, #568F37 100%);
+  color: #FFFFFF;
+  border: 1px solid #4F8033;
+  border-radius: 10px;
+  padding: 8px 24px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 18px;
+  margin-bottom: 30px;
+}
+.lowerp{
+    font-weight: bold;
+    font-family: dark;
+    font-size: 20px;
+}
+
+
